@@ -1,0 +1,204 @@
+.shop{
+    color: chocolate;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transform: translateY(-90px);
+}
+
+.pc-technichs{
+    text-align: center;
+    transform: translateY(-70px);
+}
+
+.first-PC{
+    margin-left: 150px;
+}
+
+#pc-price{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 90px;
+    height: 30px;
+    border-radius: 8px;
+    border: solid chocolate 2px;
+    margin-left: -220px;
+    transform: translateY(30px);
+    font-size: 15px;
+}
+
+.second-PC{
+    width: 275px;
+    height: 320px;
+    margin-left: 250px;
+}
+
+.second-pc-price{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 90px;
+    height: 30px;
+    border-radius: 8px;
+    border: solid chocolate 2px;
+    margin-left: -200px;
+    transform: translateY(30px);
+}
+
+.Phoneix-PC{
+    width: 350px;
+    height: 350px;
+    margin-left: 250px;
+}
+
+.Phoneix2-PC{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 90px;
+    height: 30px;
+    border-radius: 8px;
+    border: solid chocolate 2px;
+    font-size: 15px;
+    margin-left: -230px;
+    transform: translateY(30px);
+}
+
+.fourth-PC{
+    width: 350px;
+    height: 350px;
+    margin-left: 250px;
+}
+
+.fourth-pc-price{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 90px;
+    height: 30px;
+    border-radius: 8px;
+    border: solid chocolate 2px;
+    margin-left: 1555px;
+}
+
+.INFOMAX-PC{
+    width: 290px;
+    height: 350px;
+    margin-left: 120px;
+    transform: translateY(30px);
+}
+
+.INFOMAX_PC_PRICE{
+    width: 90px;
+    height: 30px;
+    border-radius: 8px;
+    border: solid chocolate 2px;
+    font-size: 12px;
+    transform: translateY(65px);
+    margin-left: -220px;
+}
+
+.Laptop{
+    width: 390px;
+    height: 355px;
+    margin-left: -230px;
+    transform: translateY(550px);
+}
+
+.laptop-pricing{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 90px;
+    height: 30px;
+    border-radius: 8px;
+    border: solid chocolate 2px;
+    transform: translateY(615px);
+    margin-left: -240px;
+}
+
+.ROG-STRIX{
+    width: 410px;
+    height: 400px;
+    margin-left: 250px;
+    transform: translateY(565px);
+}
+
+.laptop-price-ROG{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 90px;
+    height: 30px;
+    border-radius: 8px;
+    border: solid chocolate 2px;
+    font-size: 12px;
+    transform: translateY(600px);
+    margin-left: -235px;
+}
+
+#MSI-laptop{
+    width: 410px;
+    height: 390px;
+    transform: translateY(560px);
+    margin-left: 255px;
+}
+
+.MSI-laptop-pricing{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 90px;
+    height: 30px;
+    border-radius: 8px;
+    border: solid chocolate 2px;
+    font-size: 12px;
+    transform: translateY(590px);
+    margin-left: -220px;
+}
+
+.laptop-PREDATOR-photo{
+    width: 410px;
+    height: 350px;
+    margin-left: -1310px;
+    transform: translateY(1045px);
+}
+
+.laptop-PREDATOR-pricing{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 90px;
+    height: 30px;
+    border-radius: 8px;
+    border: solid chocolate 2px;
+    font-size: 12px;
+    transform: translateY(1110px);
+    margin-left: -241px;
+}
+
+.MSI-Cyborg{
+    width: 410px;
+    height: 430px;
+    transform: translateY(1080px);
+    margin-left: 230px;
+}
+
+.MSI-pricing{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 90px;
+    height: 30px;
+    border-radius: 8px;
+    border: solid chocolate 2px;
+    font-size: 12px;
+    transform: translateY(1100px);
+    margin-left: -235px;
+}
+
+.MacBook{
+    width: 410px;
+    height: 355px;
+    transform: translateY(1047px);
+    margin-left: 270px;
+}
+
+.Mac-Book-pricing{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 90px;
+    height: 30px;
+    border-radius: 8px;
+    border: solid chocolate 2px;
+    font-size: 12px;
+    transform: translateY(1100px);
+    margin-left: -235px;
+}
